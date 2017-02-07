@@ -1,0 +1,10 @@
+C:\Users\Joel\Source\Repos\MVC_1\MVC_1\bin\Debug\MVC_1.exe.config
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\bin\Debug\MVC_1.exe.config
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.csprojResolveAssemblyReference.cache
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.Properties.Resources.resources
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.View.EmpleadoView.resources
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.csproj.GenerateResource.Cache
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\bin\Debug\MVC_1.exe
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\bin\Debug\MVC_1.pdb
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.exe
+D:\Demo c# 2017 Nivel I\MVC_1\MVC_1\obj\Debug\MVC_1.pdb
